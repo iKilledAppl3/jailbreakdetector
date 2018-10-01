@@ -45,12 +45,6 @@
      
      
      }
-     
-     else {
-     //do original thing
-     [self viewDidLoad];
-     
-     }
 
 }
 
